@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# Mae for facial expression recognition 
 ## Masked Autoencoders: A PyTorch Implementation
 
 <p align="center">
