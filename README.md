@@ -1,6 +1,10 @@
 # Mae for facial expression recognition 
-## 
-Origin refo readme
+##  Architecture : mae_vit_base_patch16_dec512d8b
+## Dataset : AffectNet, CASIA-WebFace, CelebA,IMDB-WIKI
+## epoch : 800
+## others : default
+######################
+## Origin refo readme
 Masked Autoencoders: A PyTorch Implementation
 
 <p align="center">
